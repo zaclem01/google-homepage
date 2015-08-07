@@ -11,17 +11,6 @@ ul {
 	margin: 0px;
 }
 
-#footer ul {
-	margin-top: 13px;	
-	margin-left: 23px;
-	margin-right: 23px;
-}
-
-#footer ul li {
-	display: inline-block;
-	margin-right: 23px;
-}
-
 li img {
 	width: 30px;
 	height: 30px;
@@ -78,6 +67,17 @@ li img {
 	height: 40px;
 	background-color: #F2F2F2;
 	border-top: 1px solid #E4E4E4;
+}
+
+#footer ul {
+	margin-top: 13px;	
+	margin-left: 23px;
+	margin-right: 23px;
+}
+
+#footer ul li {
+	display: inline-block;
+	margin-right: 23px;
 }
 
 #l_foot {
